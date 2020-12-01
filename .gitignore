@@ -8,6 +8,7 @@ dist/
 **/dev/build.js.map
 npm-debug.log
 package-lock.json
+yarn.lock
 .webpack-cache
 .DS_Store
 # coverage
